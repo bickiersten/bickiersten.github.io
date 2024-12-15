@@ -1,89 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kiersten Bicmore's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kiersten Bickmore
+Student at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bic19001@byui.edu">bic19001@byui.edu</a>
+| <a href="www.linkedin.com/in/kiersten-bickmore-29b8bb211">LinkedIn Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am currently a student attending Brigham Young University - Idaho majoring in Professional Studies with a minor in data science and a cluster in math. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I have had a few different kinds of work experience and the ability to learn new skills from each position. Some of these skills include customer service, training new employees, prepping ingredients to create orders to customer specifications, taking inventory and recording numbers, and researching information to report. Different experiences have given me useful skills to use in my daily life, one skill being communication gained from speaking in front of large groups. I have grown to use both Adobe Photoshop and Microsoft Office products effectively and efficiently.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2019 - Current`
+__Brigham Young University – Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`August 2017 - May 2019`
+__Chattahoochee High School__
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Custodian__
+`March 2023 - July 2024`
+- Custodian - Cleaned several areas, including bathrooms and offices
+- Trainer - Explained daily procedure to new employees
+- Inventory/Stocker - Organized and took count of the number of items in each closet; stocked items
+that were running low
 
-- Fellow
+__Sanitizer__
+`January 2022 - April 2022`
+- Sanitizer - Walked around sanitizing areas; cleaned any areas that were out of order/dirty
+- Inventory/Stocker - Organized and took count of the number of items in each closet; stocked items
+that were running low for the morning crew
 
+__Domino's Pizza Customer Service Representative__
+`January 2021 - April 2021`
+- Cashier/Customer Service - Informed customers about different products, calculated purchase totals
+for customers and verified prices; addressed concerns and complaints with products
+- Food Prep - Stocked food supplies for pizza, sandwiches, and pasta, prepared food samples for
+customers, prepared meals for customer orders
 
+__Inventory/Reporter__
+`February 2020 - Spetember 2020`
+- Inventory/Reporter - Organized and took count of the number of items in each unit; reported said
+numbers and other information to employer
+- Starter - Arrived at storage units at planned time to work
+- Researcher - Researched prices of medical equipment and recorded numbers on Excel
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+__Great Harvest Bread Company__
+`August 2018 - May 2019`
+- Cashier/Customer Service - Informed customers about different products, calculated
+purchase totals for customers and verified prices, gaining experience in customer
+interaction and clerical skills; addressed concerns and complaints with products
+- Trainer - Explained daily procedure to new employees
+- Closer – Store facility maintenance
+- Food Prep – Stocked food supplies for sandwiches, prepared food samples for
+customers, prepared meals for customer orders
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
